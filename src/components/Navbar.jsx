@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+// need custom hooks
+
 const Navbar = (props) => {
   const toggleMode = e => {
     e.preventDefault();
